@@ -2,10 +2,6 @@
 
 PHP SQL PDO create database script
 
-# Create Database
-
-Create MySQL Database using PHP PDO and SQL
-
 # Prerequisites
 
 Set users and privileges of database via command line, cPanel, or PHPMyAdmin UI
@@ -25,6 +21,12 @@ Study then apply the principle of least privilege to all systems and services
 Change db_name, table_name, un and pw in sql to names appropriate for your project
 
 Change names in connection string to correct names of your db, un and pw
+
+# Acknowledgments
+
+W3 Schools
+
+Kevin Yank PHP & MySQL: Novice To Ninja, 5th Edition
 
 
 
