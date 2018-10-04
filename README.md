@@ -1,4 +1,4 @@
-# php_pdo_sql
+# PHP PDO SQL
 
 PHP SQL PDO create database script
 
