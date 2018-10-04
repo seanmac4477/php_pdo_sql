@@ -7,6 +7,7 @@ function html($text) {
 function htmlout($text) {
     echo html($text);
 }
+
 ?>
 <!doctype html>
 <html>
