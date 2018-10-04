@@ -12,11 +12,19 @@ Set users and privileges of database via command line, cPanel, or PHPMyAdmin UI
 
 PHP editor, Testing server
 
-# Suggestion 
+# Suggestions
+
+Obtain, install, and register a server certificate on all Delivery Controllers, and configure a port with the TLS certificate 
+
+Use SFTP when transferring user credentials files to server
+
+Set and test Apache .htacces file to redirect to http to https requests before runing PHP/SQL files
+
+Study then apply the principle of least privilege to all systems and services
 
 Change db_name, table_name, un and pw in sql to names appropriate for your project
 
-Change names in connection string to correct names of db, un and pw
+Change names in connection string to correct names of your db, un and pw
 
 
 
