@@ -1,6 +1,6 @@
 # PHP PDO SQL
 
-PHP SQL PDO create database script
+PHP PDO SQL database scripts
 
 # Prerequisites
 
